@@ -1,3 +1,11 @@
+Go to https://openweathermap.org/ and login/create account
+Copy your API key and paste it in the .env file. For example, NEXT_PUBLIC_PRIVATE_API_KEY="jnif2r91oif12f114" <= I made this up
+Run the development server:
+npm run dev
+# or
+yarn dev
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
